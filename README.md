@@ -5,7 +5,7 @@
   </a>
 </p>
 
-Welcome to my SQL Projects Portfolio! This repository showcases a collection of projects that demonstrate my proficiency in SQL, showcasing my ability to query and manipulate data effectively. Each project represents a unique application of SQL skills, spanning various domains and complexities.
+Welcome to my SQL Projects Repo! This repository showcases a collection of projects that demonstrate my proficiency in SQL, showcasing my ability to query and manipulate data effectively. Each project represents a unique application of SQL skills, spanning various domains and complexities.
 
 ## Table of Contents
 
