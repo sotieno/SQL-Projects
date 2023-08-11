@@ -55,7 +55,7 @@ I welcome contributions and suggestions for improving this project. To contribut
 
 ## Resources
 
-[Official Website](https://8weeksqlchallenge.com/getting-started/)
-[SQL resources](https://8weeksqlchallenge.com/resources/)
+* [Official Website](https://8weeksqlchallenge.com/getting-started/)
+* [SQL resources](https://8weeksqlchallenge.com/resources/)
 
 ***Note: The 8WeekSQLChallenge and its associated resources are the creation of Danny Ma. This README is an unofficial introduction to the challenge. For the most accurate and up-to-date information, please refer to the official resources provided above.
