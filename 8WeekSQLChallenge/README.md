@@ -8,7 +8,6 @@ The 8WeekSQLChallenge is a structured learning program created by Danny Ma that 
 - [Challenges](#challenges)
 - [Contributing](#contributing)
 - [Resources](#resources)
-- [Contact](#contact)
 
 ## Introduction
 
